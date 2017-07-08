@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+  font-family: monospace;
+}
+
+h1 {
+     text-align: center;
+     color: black;
+     font-family: fantasy;
+     margin-top: 35px;
+     font-size: 50px;
+   }
+
+   h3 {
+     text-align: center;
+     margin-left: 10%;
+     margin-right: 10%;
+     font-family: arial;
+   }
+
+   h4{
+     text-align: center;
+     margin-left: 5%;
+     margin-right: 5%;
+     font-weight: bold;
+     line-height: 25px;
+   }
+
+.date{
+ color: midnightblue;
+}
+
+   .bg{
+     background-size: 80%;
+     background-color: white;
+     margin: 7% 7%;
+     position: absolute;
+     border-radius: 25px;
+   }
+
+   .img1 {
+     display: block;
+     max-height: 80%;
+     max-width: 80%;
+     height: auto;
+     width: auto;
+     border-radius: 30%;
+     margin: auto;
+     margin-top:15px;
+   }
+
+   .ul{
+     text-align: left;
+     margin: 5%;
+     font-family: roman;
+     font-size: 1.3em;
+   }
+
+   .end{
+     text-align: left;
+     margin-left: 5%;
+   }
